@@ -1,7 +1,7 @@
 # SOME INFOS :alien:
 
 - 🌱 I’m currently learning Docker and DevOps technologies
-- 🔭 I’m currently working on my GitHub Pages
+- 🔭 I’m currently working on my Manhattan Platform (a SaaS)
 - 📫 How to reach me: [@s0rcy_r](https://twitter.com/s0rcy_r)
 - :cookie: My stack : [StackShare](https://stackshare.io/s0rcy-r/my-stack)
 
