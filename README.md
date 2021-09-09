@@ -13,6 +13,6 @@
 
 # SOME REPOS :clipboard:
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s0rcy-r&repo=mapyto&theme=radical&show_owner)](https://github.com/s0rcy-r/mapyto)-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s0rcy-r&repo=mapyto&theme=radical&show_owner)](https://github.com/s0rcy-r/mapyto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s0rcy-r&repo=encrypthor&theme=radical&show_owner)](https://github.com/s0rcy-r/encrypthor)
 
